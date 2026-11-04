@@ -30,6 +30,13 @@
     float: left;
     display: block;
     margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin-top: 13px;
+    object-fit: contain;
+    background: #fff;
+    border-radius: 50%;
 }
 .xe-comment {
     transform: translateY(-50%);
@@ -63,5 +70,5 @@
 }
 
 .img-circle {
-    padding: 7px 0;
+    padding: 0;
 }
